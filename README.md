@@ -1,114 +1,107 @@
 <div align="center">
 
-# 👋 Hola, soy Gabriel Jaime Cano Oquendo (Gabo)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Gabo+%F0%9F%91%8B;Estudiante+de+Ing.+de+Sistemas;Backend+%7C+Bases+de+Datos+%7C+Frontend" alt="Typing SVG" />
 
-### 🎓 Estudiante de Ingeniería de Sistemas · ITM · Medellín, Colombia
+<br/>
 
-*Construyendo soluciones desde el backend hasta el frontend, con ganas de aprender todo lo que hay en el medio.*
+**Estudiante de Ingeniería de Sistemas · ITM · Medellín, Colombia 🇨🇴**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Cano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-jaime-cano-oquendo/)
+*Me gusta entender cómo funcionan las cosas por dentro, no solo hacer que funcionen.*
 
-</div>
+<br/>
 
----
-
-## 🧠 Sobre mí
-
-Soy estudiante de Ingeniería de Sistemas en el ITM (Institución Universitaria), apasionado por el desarrollo de software y la construcción de aplicaciones que resuelven problemas reales. Me motiva entender cómo funcionan las cosas a fondo, no solo hacer que "funcionen".
-
-Me manejo bien entre el backend y el frontend, con experiencia en bases de datos relacionales, programación orientada a objetos y diseño responsivo. Actualmente profundizando en Python, Java y arquitecturas con ORM.
-
----
-
-## 🛠️ Tech Stack
-
-### 💪 Conocimientos sólidos
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3_Responsive-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 📚 Conocimientos en progreso / retomando
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-### 🗄️ Bases de datos
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-### ⚙️ Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CC0000?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Gabo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielCano22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCano22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GabrielCano22&theme=tokyonight&hide_border=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-jaime-cano-oquendo/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielCano22)
+![Portafolio](https://img.shields.io/badge/Portafolio-Próximamente-6e40c9?style=for-the-badge&logo=firefox&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Proyectos Destacados
+## 👨‍💻 Sobre mí
 
-### 🛒 La Tienda de Gerardo *(En desarrollo)*
-> Tienda online construida en Python con SQLAlchemy ORM y PostgreSQL (Neon). Próximamente con API REST y frontend propio.
+Soy estudiante de Ingeniería de Sistemas en el ITM con enfoque en desarrollo de software. Me muevo bien entre el backend, las bases de datos y el frontend responsivo, siempre intentando construir soluciones limpias y que tengan sentido.
 
-`Python` `SQLAlchemy` `PostgreSQL` `ORM`
+Me autogenero bastante — cuando algo no me queda claro en clase, lo investigo, lo pruebo y lo rompo hasta entenderlo. Así aprendo mejor.
+
+Actualmente construyendo proyectos reales con Python, SQL y ORM mientras avanzo en mi carrera.
+
+---
+
+## 🛠️ Tecnologías
+
+### Manejo bien
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3_Responsive-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CC0000?style=flat-square&logo=python&logoColor=white)
+
+### Retomando / profundizando
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+
+### Herramientas
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## 📌 Proyectos destacados
+
+### 🛒 La Tienda de Gerardo &nbsp;![En desarrollo](https://img.shields.io/badge/estado-en%20desarrollo-yellow?style=flat-square)
+Tienda online construida con Python, SQLAlchemy ORM y PostgreSQL alojado en Neon. Próximamente le entra API REST con FastAPI y su propio frontend.
+
+`Python` · `SQLAlchemy` · `PostgreSQL` · `FastAPI`
 
 ---
 
 ### ✂️ Sistema de Barbería
-> Aplicación de escritorio para gestión de una barbería, manejo de clientes y servicios.
+Aplicación de escritorio para gestionar clientes, turnos y servicios de una barbería.
 
-`C#` `.NET`
-
----
-
-### 🖥️ Sistema de Préstamo de Equipos Escolares
-> Aplicación en Java para gestionar el préstamo de equipos en una institución educativa. Asignación de computadores a estudiantes de desarrollo y tablets a estudiantes de diseño.
-
-`Java` `OOP`
+`C#` · `.NET`
 
 ---
 
-### 🏴‍☠️ Blog / E-commerce One Piece
-> Proyecto personal de mis inicios — e-commerce y blog temático de One Piece. Hecho desde cero con HTML, CSS y JavaScript puro.
+### 🖥️ Sistema de Préstamo de Equipos
+App en Java para una institución educativa: asigna computadores a estudiantes de desarrollo y tablets a los de diseño.
 
-`HTML` `CSS` `JavaScript`
-
----
-
-## 🌱 Actualmente aprendiendo
-
-- Arquitecturas con ORM y migraciones de base de datos
-- Construcción de APIs REST en Python
-- Profundizando en Ingeniería de Software (análisis de requisitos, modelado de sistemas)
-- Fundamentos de Seguridad Informática (ISO 27001/27002, SGSI)
+`Java` · `POO`
 
 ---
 
-## 📬 Contacto
+### 🏴‍☠️ E-commerce / Blog One Piece
+Mi primer proyecto serio — tienda temática con blog, hecha desde cero sin frameworks. De ahí arrancó todo.
+
+`HTML` · `CSS` · `JavaScript`
+
+---
+
+## 📈 Estadísticas de GitHub
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-jaime-cano-oquendo/)
+![Gabo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielCano22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&locale=es)
 
-*Portafolio próximamente...*
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCano22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=es)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GabrielCano22&theme=tokyonight&hide_border=true&locale=es)
 
 </div>
+
+---
+
+## 🌱 Aprendiendo ahora
+
+- Arquitecturas con ORM y migraciones en Python
+- APIs REST con FastAPI
+- Análisis y modelado de sistemas de software
+- Fundamentos de Seguridad Informática (ISO 27001, SGSI, CIA)
 
 ---
 
@@ -116,6 +109,6 @@ Me manejo bien entre el backend y el frontend, con experiencia en bases de datos
 
 *"El conocimiento que no se aplica no sirve de nada."*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=GabrielCano22&color=blueviolet&style=for-the-badge)
+![Visitas](https://komarev.com/ghpvc/?username=GabrielCano22&color=58a6ff&style=flat-square&label=visitas+al+perfil)
 
 </div>
