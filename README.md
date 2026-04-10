@@ -22,9 +22,9 @@
 
 Soy estudiante de Ingeniería de Sistemas en el ITM con enfoque en desarrollo de software. Me muevo bien entre el backend, las bases de datos y el frontend responsivo, siempre intentando construir soluciones limpias y que tengan sentido.
 
-Me autogenero bastante — cuando algo no me queda claro en clase, lo investigo, lo pruebo y lo rompo hasta entenderlo. Así aprendo mejor.
+Me autogenero bastante cuando algo no me queda claro en clase, lo investigo, lo pruebo y lo rompo hasta entenderlo. Así aprendo mejor.
 
-Actualmente construyendo proyectos reales con Python, SQL y ORM mientras avanzo en mi carrera.
+Actualmente construyendo proyectos reales con Python, SQL, Angular y ORM mientras avanzo en mi carrera.
 
 ---
 
@@ -33,6 +33,7 @@ Actualmente construyendo proyectos reales con Python, SQL y ORM mientras avanzo 
 ### Manejo bien
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3_Responsive-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -42,7 +43,6 @@ Actualmente construyendo proyectos reales con Python, SQL y ORM mientras avanzo 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
@@ -55,9 +55,9 @@ Actualmente construyendo proyectos reales con Python, SQL y ORM mientras avanzo 
 ## 📌 Proyectos destacados
 
 ### 🛒 La Tienda de Gerardo &nbsp;![En desarrollo](https://img.shields.io/badge/estado-en%20desarrollo-yellow?style=flat-square)
-Tienda online construida con Python, SQLAlchemy ORM y PostgreSQL alojado en Neon. Próximamente le entra API REST con FastAPI y su propio frontend.
+Tienda online construida con Python, SQLAlchemy ORM y PostgreSQL alojado en Neon. Próximamente le entra API REST con FastAPI y su propio frontend en Angular.
 
-`Python` · `SQLAlchemy` · `PostgreSQL` · `FastAPI`
+`Python` · `SQLAlchemy` · `PostgreSQL` · `FastAPI` . `Angular`
 
 ---
 
@@ -76,7 +76,7 @@ App en Java para una institución educativa: asigna computadores a estudiantes d
 ---
 
 ### 🏴‍☠️ E-commerce / Blog One Piece
-Mi primer proyecto serio — tienda temática con blog, hecha desde cero sin frameworks. De ahí arrancó todo.
+Mi primer proyecto serio, tienda temática con blog, hecha desde cero sin frameworks. De ahí arrancó todo.
 
 `HTML` · `CSS` · `JavaScript`
 
