@@ -54,12 +54,21 @@ Actualmente construyendo proyectos reales con Python, SQL, Angular y ORM mientra
 
 ## 📌 Proyectos destacados
 
-### 🛒 La Tienda de Gerardo &nbsp;![En desarrollo](https://img.shields.io/badge/estado-en%20desarrollo-yellow?style=flat-square)
-Tienda online construida con Python, SQLAlchemy ORM y PostgreSQL alojado en Neon. Próximamente le entra API REST con FastAPI y su propio frontend en Angular.
+### 🛒 La Tienda de Gerardo &nbsp;![Finalizado](https://img.shields.io/badge/estado-finalizado-brightgreen?style=flat-square)
+Tienda online construida con Python, SQLAlchemy ORM, PostgreSQL, FastAPI y Angular. Desplegada con Vercel (frontend), Render (backend) y Cloudflare.
 
-`Python` · `SQLAlchemy` · `PostgreSQL` · `FastAPI` . `Angular`
+🔗 [Ver proyecto en línea](https://frontend-proyecto-tienda-online.vercel.app/)
+
+`Python` · `SQLAlchemy` · `PostgreSQL` · `FastAPI` · `Angular` · `Vercel` · `Render` · `Cloudflare`
 
 ---
+
+### 📸 Capturas de pantalla
+
+| Vista del proyecto |
+|--------------------|
+| ![Captura 1](ruta/a/tu/imagen1.png) |
+| ![Captura 2](ruta/a/tu/imagen2.png) |
 
 ### ✂️ Sistema de Barbería
 Aplicación de escritorio para gestionar clientes, turnos y servicios de una barbería.
