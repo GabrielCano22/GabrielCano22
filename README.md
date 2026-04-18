@@ -61,14 +61,17 @@ Tienda online construida con Python, SQLAlchemy ORM, PostgreSQL, FastAPI y Angul
 
 `Python` · `SQLAlchemy` · `PostgreSQL` · `FastAPI` · `Angular` · `Vercel` · `Render` · `Cloudflare`
 
----
+
 
 ### 📸 Capturas de pantalla
 
 | Vista del proyecto |
-|--------------------|
-| ![Captura 1](ruta/a/tu/imagen1.png) |
-| ![Captura 2](ruta/a/tu/imagen2.png) |
+<div align="center">
+  <img src="Login.png" alt="Login" width="600" ">
+  <img src="Dashboard.png" alt="Dashboard" width="600"">
+</div>
+
+---
 
 ### ✂️ Sistema de Barbería
 Aplicación de escritorio para gestionar clientes, turnos y servicios de una barbería.
